@@ -1,6 +1,6 @@
 Complete project as part of the course. Features music from Kevin Macleod. Honestly, this one was kinda hard, 
 I used ChatGPT NOT to write my code, or to do all the work, but for just a general way of thinking, like moving in the right direction.
-The only section written by CHatGPT was the length check, and even then, I made sure i understood everything being implemented by commenting and stuff.
+The only section written by ChatGPT was the length check, and even then, I made sure I understood everything being implemented by commenting and stuff.
 But enough ranting, i'm trying to make myself not feel like a fraud. This project will defeat writers block or let you type to the void by 
 deleting text every 3 seconds. Hope you enjoy.
 
